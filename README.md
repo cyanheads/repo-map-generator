@@ -24,7 +24,7 @@ repo_map_generator/
         ├── TODO.py
         └── skynet_prototype.py
 
-File: repo_map.md
+File: girl_scout_thin_mints_recipe.md
 ```
 
 ## ✨ Features
