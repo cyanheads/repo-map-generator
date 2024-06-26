@@ -1,6 +1,6 @@
 # 🗺️ Repository Map Generator
 
-A simple-to-use Python script to generate, maintain, and integrate a visual tree map of your project's directory structure. This tool offers a range of features including repo map insertion into existing files, Git integration, and robust file handling.
+A simple-to-use Python script to generate, maintain, and integrate a visual tree map of your repository directory structure. This tool offers a range of features including repo map insertion as comments into existing files, Git integration, and robust file handling.
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
