@@ -7,7 +7,7 @@ A simple-to-use Python script to generate, maintain, and integrate a visual tree
 
 ## ❔ Why Use a Repo Map
 
-When working with larger codebases, including a repository map can improve performance and accuracy when using a Language Model (LLM). By manually copying and pasting the repo map file or including it as a comment at the top of each code file, you provide the LLM with essential context. This can lead to better code comprehension and more precise interactions.
+When utilizing a Language Model (LLM) and working with a larger codebase, including a repository map can improve accuracy of generated code. We manually copy/paste the repo map file or include it as a comment at the top of each code file to provide the LLM with essential context. This can lead to better code comprehension and more precise interactions.
 
 ## 👀 Preview
 
